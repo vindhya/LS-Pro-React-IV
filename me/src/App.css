@@ -1,0 +1,36 @@
+img {
+  max-width: 100%;
+}
+
+.header {
+  background-color: whitesmoke;
+  padding: 30px 0 10px 0;
+}
+
+.header h2 {
+  text-align: center;
+  margin-top: 0;
+}
+
+.nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+.nav li {
+  display: inline-block;
+  width: 100px;
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+.body {
+  max-width: 900px;
+  margin: 30px auto 0 auto;
+}
+
+.media img {
+  max-width: 600px;
+}
